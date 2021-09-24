@@ -58,8 +58,23 @@ git push -u your_github_username
 
 9. Now open the forked repository on your GitHub. You will see a yellow box at the top telling you that some changes are pushed. You will also see a button called `Compare & pull request`. Click on it.
 10. Now add a title, some description and voila! You have opened a pull request in this repository.
+11. Also star this repository. 😉
+
+*You need to open **four** valid pull requests in order to complete the challenge. If you have performed the above steps, you have already opened one pull request. And you need only three more.*
+
+<br>
 
 >Note: Those repositories who have `hacktoberfest` as a label are considered for Hacktoberfest challenge only.
+
+<br>
+
+<img src="./assets/suitcase.png" width="10%" />
+
+### *Resources*
+
+- If you are contributing for the first time, check this [repository](https://github.com/firstcontributions/first-contributions).
+- If you don't know how to fork a repository. check this [out](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
+- Want to contribute to other repositories that are participating in Hacktoberfest, [click here](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest).
 
 ## ⚡️ Other Projects
 
