@@ -76,6 +76,63 @@ git push -u your_github_username
 - If you don't know how to fork a repository. check this [out](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 - Want to contribute to other repositories that are participating in Hacktoberfest, [click here](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest).
 
+<br>
+
+<img src="./assets/api.png" width="10%" />
+
+### *Hacktoberfest Issues*
+
+| Issues      | Good First Issue |
+| ----------- | ----------- |
+| [Issues with Hint Message in Error Based SQL Injection and union Based SQL Injections](https://github.com/SasanLabs/VulnerableApp/issues/310) | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)       |
+| [multiple before() or after() empty blocks can be added to a test suite](https://github.com/ngarbezza/testy/issues/202)   | ![no](https://img.shields.io/badge/Good%20first%20issue-no-%23dc143c?style=for-the-badge)        |
+| [Make footer stick to bottom of the page](https://github.com/rishipurwar1/coding-space/issues/62)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Enable offline caching](https://github.com/F1nnM/dungeons-and-trivia/issues/1)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Don't execute the build action as check on PRs](https://github.com/F1nnM/Rainbow-Cards/issues/8)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Redirect to analysis after upload.](https://github.com/F1nnM/HyperViz/issues/2)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Update to new Streamlit version](https://github.com/F1nnM/HyperViz/issues/1)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Improve the code](https://github.com/shubhamcodez/OpenMeme/issues/24)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Add Given Sites In the Events/Programs Page](https://github.com/shikha-16/Women-in-Technology/issues/147)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [a tag Link color not changing according to dark mode](https://github.com/shikha-16/Women-in-Technology/issues/142)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Merge the Beginners and Guidelines pages](https://github.com/shikha-16/Women-in-Technology/issues/140)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Replace network image](https://github.com/mlsa-amu/MLSA-AMU/issues/4)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Add Given Sites In the Events/Programs Page](https://github.com/shikha-16/Women-in-Technology/issues/147)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Create a 2048 web game](https://github.com/Hacktoberfest-SCE/Lets-Build/issues/2)   | ![no](https://img.shields.io/badge/Good%20first%20issue-no-%23dc143c?style=for-the-badge)        |
+| [Enhance our SGPA Calculator project](https://github.com/Hacktoberfest-SCE/Lets-Build/issues/1)   | ![no](https://img.shields.io/badge/Good%20first%20issue-no-%23dc143c?style=for-the-badge)        |
+| [The app doesn't show image of icon properly in the notifications](https://github.com/Routinger/routinger/issues/5)   | ![no](https://img.shields.io/badge/Good%20first%20issue-no-%23dc143c?style=for-the-badge)         |
+| [A new color palette or font-style for the app](https://github.com/Routinger/routinger/issues/3)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Text to italics](https://github.com/mlsa-amu/MLSA-AMU/issues/5)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [README to be created for the website project](https://github.com/DesignSystemsOSS/thedesignsystems/issues/27)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Responsiveness of the Team page](https://github.com/DesignSystemsOSS/thedesignsystems/issues/26)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [A new color palette or font-style for the app](https://github.com/Routinger/routinger/issues/3)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Add copyright notice to all files that use startbootstraps's code](https://github.com/Exter-dg/CovID/issues/9)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [recommonmark is deprecated](https://github.com/wemake-services/wemake-python-package/issues/203)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [[FEATURE] Implement a contact us feature to the website](https://github.com/DesignSystemsOSS/thedesignsystems/issues/21)   | ![no](https://img.shields.io/badge/Good%20first%20issue-no-%23dc143c?style=for-the-badge)        |
+| [Link to the CLI from the web frontend](https://github.com/flosell/iam-policy-json-to-terraform/issues/29)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Add option to flush assetcache on close to Preferences](https://github.com/RPTools/maptool/issues/2985)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [fix(plugin-htlc-eth-besu): error handling get-status-endpoint](https://github.com/hyperledger/cactus/issues/1383)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Add example workflows to test PHP extensions](https://github.com/shivammathur/setup-php/issues/510)  | ![no](https://img.shields.io/badge/Good%20first%20issue-no-%23dc143c?style=for-the-badge)       |
+| [Add GitHub Action workflow to publish setup-php to NPM and GitHub Packages](https://github.com/shivammathur/setup-php/issues/507)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [fix: error handling in REST API endpoints](https://github.com/hyperledger/cactus/issues/1378) | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Refactor: Use parameterised testing using jest.it.each](https://github.com/shivammathur/setup-php/issues/506)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Improvement in the responsiveness of the recruit form](https://github.com/pulkithanda/voyager-hf/issues/21)   | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Set group name command](https://github.com/PrajjwalDatir/Kaoi/issues/94) | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Add Jupyter notebook support to Documentation](https://github.com/microsoft/electionguard-python/issues/447) | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [add a CONTRIBUTING.md](https://github.com/FunkyDevStuff/FunkyBot/issues/2) | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [We need a README!](https://github.com/FunkyDevStuff/FunkyBot/issues/1) | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Update Toast Notification Style for Dark Theme](https://github.com/aamay001/react-resume/issues/108) | ![no](https://img.shields.io/badge/Good%20first%20issue-no-%23dc143c?style=for-the-badge)       |
+| [Typo errors](https://github.com/hemant104/test-repo/issues/1) | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Limit the number of users in a group](https://github.com/code4romania/de-urgenta-backend/issues/98) | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Ace Editor doesn't like Whitespaces](https://github.com/ab-apps/aryabota-ui/issues/4) | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| ["Log Out" button is a Disco Ball! ](https://github.com/ab-apps/aryabota-ui/issues/5) | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Remove .NET Framework support](https://github.com/beardgame/ui/issues/26) | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [windows support](https://github.com/jw3126/ONNXRunTime.jl/issues/8) | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Add index contents to root level README](https://github.com/Himanshu40/Sorting-Algorithm/issues/17) | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+| [Contributing. MD](https://github.com/shubhamcodez/OpenMeme/issues/21) | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
+
+***Feel to open a PR to add more issues and resources.***
+
+
 ## ⚡️ Other Projects
 
 I have curated a [detailed list](https://github.com/msaaddev/open-source) of all the open-source projects I have authored. Do take out a moment and take a look.
