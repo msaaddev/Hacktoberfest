@@ -74,6 +74,7 @@ git push -u your_github_username
 
 - If you are contributing for the first time, check this [repository](https://github.com/firstcontributions/first-contributions).
 - If you don't know how to fork a repository. check this [out](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
+- Need help with Git commands, take a look [here](https://github.com/msaaddev/git-commands-workflows).
 - Want to contribute to other repositories that are participating in Hacktoberfest, [click here](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest).
 
 <br>
