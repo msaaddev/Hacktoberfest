@@ -131,7 +131,7 @@ git push -u your_github_username
 | [Add index contents to root level README](https://github.com/Himanshu40/Sorting-Algorithm/issues/17) | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
 | [Contributing. MD](https://github.com/shubhamcodez/OpenMeme/issues/21) | ![yes](https://img.shields.io/badge/good%20first%20issue-yes-%23fad000?style=for-the-badge)        |
 
-***Feel to open a PR to add more issues and resources.***
+***Feel free to open a PR to add more issues and resources.***
 
 
 ## ⚡️ Other Projects
