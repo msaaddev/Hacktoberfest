@@ -1,5 +1,5 @@
-Name: Here goes your name
+Name: Uswah Saeed
 
-Username: Here goes your GitHub username
+Username: Uswah-Saeed
 
 Favorite Language: JavaScript
