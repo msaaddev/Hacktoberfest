@@ -53,7 +53,7 @@ git add .
 git commit -m "hacktoberfest contribution"
 
 # copy and paste the following in the terminal after you have executed the previous command
-git push -u your_github_username
+git push -u origin your_github_username
 ```
 
 9. Now open the forked repository on your GitHub. You will see a yellow box at the top telling you that some changes are pushed. You will also see a button called `Compare & pull request`. Click on it.
