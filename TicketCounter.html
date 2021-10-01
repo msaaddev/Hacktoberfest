@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<style>
+    body {
+        background-image: url('https://images.unsplash.com/photo-1585316413485-ac0d531532ee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+        background-repeat: no-repeat;
+        /* //background-position: center; */
+        background-size: cover;
+    }
+</style>
+
+<body>
+    <div style="background-color: rgba(0, 0, 0, 0.7);height: 200px;padding: 20px;color: whitesmoke; margin-top: 200px; border-radius: 20px; border: 2px solid whitesmoke;">
+
+        <h1 style="text-align: center; font-size: 40px;">Ticket Booking System</h1>
+        <hr>
+        <h3 style="text-align: center;">Enter the no. of tickets</h3>
+
+        <form>
+            Adult : <input type="text" name="" id="Adult"> &nbsp;&nbsp;&nbsp;
+            Senior Citizen : <input type="text" name="" id="Senior">&nbsp;&nbsp;&nbsp;
+            Child : <input type="text" name="" id="Child">&nbsp;&nbsp;&nbsp;
+
+            <input type="submit" value="calculate" onclick="total(event)">
+            <input type="reset" value="Reset">
+
+            <label for="output" style="margin-left: 80px;">Total : </label>
+              <input type="text" id="output" >
+        </form>
+    </div>
+    <script>
+
+        function total(event) {
+
+            let Total;
+            let fruit = document.getElementById('fruits').value;
+    
+
+            Total = banana * 50 + apple * 30 + mango * 20;
+
+            document.getElementById('output').value = Total;
+
+        }
+    </script>
+</body>
+
+</html>
