@@ -2,4 +2,4 @@ Name: Carlos Veiga
 
 Username: carlosveigadev
 
-Favorite Language: JavaScript and Ruby
+Favorite Language: JavaScript - Ruby
