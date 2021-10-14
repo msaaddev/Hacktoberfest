@@ -54,6 +54,11 @@ git commit -m "hacktoberfest contribution"
 
 # copy and paste the following in the terminal after you have executed the previous command
 git push -u origin your_github_username
+
+# Below Command is optional only if you get an error after the above command such as
+# "error: src refspec your_github_username does not match any"
+# then use the below command, it will solve the issue
+git push origin master
 ```
 
 9. Now open the forked repository on your GitHub. You will see a yellow box at the top telling you that some changes are pushed. You will also see a button called `Compare & pull request`. Click on it.
