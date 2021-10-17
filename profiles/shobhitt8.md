@@ -1,3 +1,5 @@
 Name: Shobhit Tiwari
-Username:shobhitt8
-Favourite Language:C++ and Solidity
+
+Username: shobhitt8
+
+Favorite Language: C++ and Solidity
